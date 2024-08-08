@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**nicolas-1d/nicolas-1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sejam bem vindos ao meu perfil! 💙💙
 
-Here are some ideas to get you started:
+Meu nome é Nicolas Brian. 
+Sou aluno do 1º ano do ensino médio e estou estudando na Alura. 
+Estou me desenvolvendo na linguagem do JavaScript.
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📫
+
+00001092704280sp@al.educacao.sp.gov.br
+@brian_ssm
+
+![](https://tenor.com/pt-BR/view/povjisoo-maya-massafera-gif-10146488282609891460)
+
+
