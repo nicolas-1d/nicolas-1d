@@ -12,6 +12,3 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 00001092704280sp@al.educacao.sp.gov.br
 @brian_ssm
 
-![](https://tenor.com/pt-BR/view/povjisoo-maya-massafera-gif-10146488282609891460)
-
-
